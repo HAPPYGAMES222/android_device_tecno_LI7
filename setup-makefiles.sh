@@ -7,8 +7,8 @@
 
 set -e
 
-DEVICE=X6837
-VENDOR=infinix
+DEVICE=LI7
+VENDOR=tecno
 
 # Load extract_utils and do some sanity checks
 MY_DIR="${BASH_SOURCE%/*}"
