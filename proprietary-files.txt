@@ -3078,10 +3078,6 @@ vendor/lib64/vendor.transsion.hardware.tranlogconfig@1.0.so
 vendor/lib/libvibrator.so
 vendor/lib64/libvibrator.so
 
-# Apdb
-vendor/etc/apdb/APDB_MT6789___W2348
-vendor/etc/apdb/APDB_MT6789___W2348_ENUM
-
 # Wi-Fi
 vendor/bin/wlan_assistant
 vendor/etc/init/init.wlan_drv.rc
