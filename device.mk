@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/tecno/LG8n
+DEVICE_PATH := device/tecno/LI7
 KERNEL_PATH := $(DEVICE_PATH)-kernel
 
 # AAPT
